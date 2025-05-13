@@ -1,1 +1,1 @@
-The code will be released soon.
+The code has been released. Please choose master branch in github.
